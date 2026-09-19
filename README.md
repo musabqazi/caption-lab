@@ -1,6 +1,6 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Hook Lab](https://github.com/musabqazi/hook-lab) · [Cavello Lab](https://github.com/musabqazi/cavello-lab) · [Portfolio](https://github.com/musabqazi/portfolio)
+**[← All systems](https://github.com/musabqazi)** · [Hook Lab](https://github.com/musabqazi/hook-lab) · [Carousel Lab](https://github.com/musabqazi/carousel-lab) · [Portfolio](https://github.com/musabqazi/portfolio)
 
 # Caption Lab
 
